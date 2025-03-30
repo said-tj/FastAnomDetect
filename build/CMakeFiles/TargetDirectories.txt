@@ -1,0 +1,3 @@
+/home/said-04/Documentos/workspace/FastAnomDetect/build/CMakeFiles/FastAnomDetect.dir
+/home/said-04/Documentos/workspace/FastAnomDetect/build/CMakeFiles/edit_cache.dir
+/home/said-04/Documentos/workspace/FastAnomDetect/build/CMakeFiles/rebuild_cache.dir
